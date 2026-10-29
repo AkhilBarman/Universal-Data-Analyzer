@@ -1,5 +1,0 @@
-Technology has changed the way people learn, work, and communicate. Online libraries give students access to information from almost anywhere, while educational videos make difficult ideas easier to understand. However, technology is most useful when it supports thoughtful learning rather than replacing it.
-
-Reading remains an important skill in the digital age. A good article can introduce new ideas, explain a complex topic, and encourage readers to ask meaningful questions. By summarizing text, we can identify its main points and understand how different sentences contribute to the overall message.
-
-Natural language processing helps computers work with human language. Tasks such as sentence segmentation, word tokenization, stop-word removal, and frequency analysis are useful steps in text processing. These techniques allow a program to discover patterns in documents and produce concise summaries.
